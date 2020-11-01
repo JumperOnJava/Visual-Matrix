@@ -11,3 +11,15 @@ C:\Users\ADMIN\source\repos\Visual Matrix\Visual Matrix\bin\Debug\NetProcessing.
 C:\Users\ADMIN\source\repos\Visual Matrix\Visual Matrix\obj\Debug\Visual Matrix.csproj.CopyComplete
 C:\Users\ADMIN\source\repos\Visual Matrix\Visual Matrix\obj\Debug\Visual Matrix.exe
 C:\Users\ADMIN\source\repos\Visual Matrix\Visual Matrix\obj\Debug\Visual Matrix.pdb
+C:\Users\ADMIN\Desktop\Visual Matrix\Visual Matrix\bin\Debug\Visual Matrix.exe.config
+C:\Users\ADMIN\Desktop\Visual Matrix\Visual Matrix\bin\Debug\Visual Matrix.exe
+C:\Users\ADMIN\Desktop\Visual Matrix\Visual Matrix\bin\Debug\Visual Matrix.pdb
+C:\Users\ADMIN\Desktop\Visual Matrix\Visual Matrix\bin\Debug\NetProcessing.xml
+C:\Users\ADMIN\Desktop\Visual Matrix\Visual Matrix\obj\Debug\Visual Matrix.csprojAssemblyReference.cache
+C:\Users\ADMIN\Desktop\Visual Matrix\Visual Matrix\obj\Debug\Visual_Matrix.Form1.resources
+C:\Users\ADMIN\Desktop\Visual Matrix\Visual Matrix\obj\Debug\Visual_Matrix.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\Visual Matrix\Visual Matrix\obj\Debug\Visual Matrix.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\Visual Matrix\Visual Matrix\obj\Debug\Visual Matrix.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\Visual Matrix\Visual Matrix\obj\Debug\Visual Matrix.csproj.CopyComplete
+C:\Users\ADMIN\Desktop\Visual Matrix\Visual Matrix\obj\Debug\Visual Matrix.exe
+C:\Users\ADMIN\Desktop\Visual Matrix\Visual Matrix\obj\Debug\Visual Matrix.pdb

@@ -67,6 +67,7 @@ namespace Visual_Matrix
                 System.Threading.Thread.Sleep(100);
             }
         }
+        [STAThreadAttribute]
         static void Main()
         {
             Application.EnableVisualStyles();

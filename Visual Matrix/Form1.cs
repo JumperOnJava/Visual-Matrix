@@ -23,11 +23,20 @@ namespace Visual_Matrix
         }
         static public void setText(string input)
         {
-            textBox1.Text = input;
+            try
+            { 
+                textBox1.Text = input;
+            }
+            catch
+            {
+
+            }
         }
         private void button1_Click(object sender, EventArgs e)
         {
+                Clipboard.SetText(Program.tmp);
             //Program.Fin();
+            
         }
 
         private void button2_Click(object sender, EventArgs e)
